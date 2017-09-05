@@ -1,6 +1,8 @@
 *.txt
 *.cfg
 *.scr
+
+!default.cfg
 !autoexec.cfg
 !demoman.cfg
 !engineer.cfg
