@@ -2,8 +2,10 @@
 *.cfg
 *.scr
 
+!mvm.cfg
 !default.cfg
 !autoexec.cfg
+
 !demoman.cfg
 !engineer.cfg
 !heavyweapons.cfg
